@@ -203,7 +203,7 @@ footer .fa-linkedin-in {
     border-radius: 80px;
     margin: 0 8px;
 }
-#tecnologias{
+.color-gradiente{
     background: linear-gradient(to right, rgba(184, 37, 20, 1) 0%, rgba(214, 52, 30, 1) 47%, rgba(240, 47, 23, 1) 70%, rgba(240, 47, 23, 1) 100%);
 }
 #tecnologias h2{
@@ -228,6 +228,90 @@ footer .fa-linkedin-in {
 color: #370a6d;
 font-size: 24px;
 font-weight: 400;
+}
+#experiencia h3{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+#experiencia h4{
+    color:#370a6d;
+    font-size: 17px;
+}
+#experiencia h5{
+    color: #6A6A6A;
+    font-size: 14px;
+}
+#formacion h2{
+    color: #E20000;
+    font-size: 24px;
+    font-weight: 400;
+    }
+    #formacion h3{
+        color: #6A6A6A;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    #formacion h4{
+        color:#E20000;
+        font-size: 17px;
+    }
+    #formacion h5{
+        color: #6A6A6A;
+        font-size: 14px;
+    }
+#cursos h2{
+    color:#E20000;
+    font-size: 24px;
+    font-weight: 400;
+}
+    #cursos h3{
+        color: #6A6A6A;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    #cursos h4{
+        color:#E20000;
+        font-size: 17px;
+    }
+    #cursos h5{
+        color: #6A6A6A;
+        font-size: 14px;
+    }
+#idiomas .card-idioma{
+    border-radius: 15px;
+}
+#idiomas .card{
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+}
+#idiomas{
+    background-color: #eee;
+}
+#idiomas h2{
+    font-size: 16px;
+    font-weight: 600px;
+}
+#idiomas ul{
+    padding: 0px;
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
+}
+#idiomas .fas{
+    font-size: 80px;
+    color: white;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#idiomas ul{
+    padding: 0px;
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
 }
 div.col-4.text-center.card{
     color: #212529;
