@@ -26,7 +26,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mt-4 text-center cohete">
-                    <a href="proyectos.html"><img src="image/cohete.svg" class="img-cohete"></a>
+                    <a href="proyectos.php"><img src="image/cohete.svg" class="img-cohete"></a>
                 </div>
             </div>
             <div class="row">
@@ -36,7 +36,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 offset-3 text-center">
-                    <a href="proyectos.html" class="btn shadow">Conoce mis proyectos</a>
+                    <a href="proyectos.php" class="btn shadow">Conoce mis proyectos</a>
                 </div>
             </div>
     </main>

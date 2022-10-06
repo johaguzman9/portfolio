@@ -28,7 +28,7 @@
                 <div class="col-12 col-sm-7">
                     <h1 class="pb-5 pt-3">Sobre mí</h1>
                     <p>Apasionada por la tecnología y gestión de proyectos.</p>
-                    <a href="contacto.html" class="btn btn-rojo">Enviar mensaje</a>
+                    <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
                 </div>
                 <div class="col-12 col-sm-5">
                     <img src="image/yo portfolio.jpg" alt="Johannys Guzman" tittle="Johannys Guzman"
