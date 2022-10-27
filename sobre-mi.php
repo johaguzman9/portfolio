@@ -31,7 +31,7 @@
                     <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
                 </div>
                 <div class="col-12 col-sm-5">
-                    <img src="image/yo portfolio.jpg" alt="Johannys Guzman" tittle="Johannys Guzman"
+                    <img src="" alt="Johannys Guzman" tittle="Johannys Guzman"
                         class="foto-perfil">
                 </div>
             </div>
