@@ -31,7 +31,7 @@
                     <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
                 </div>
                 <div class="col-12 col-sm-5">
-                    <img src="image/yo portfolio.jpg" alt="Johannys Guzman" tittle="Johannys Guzman"
+                    <img src="image/yo.jpg" alt="Johannys Guzman" tittle="Johannys Guzman"
                         class="foto-perfil">
                 </div>
             </div>
@@ -258,7 +258,7 @@
         <div class="row">
             <div class="col-3">
                 <a href="" target="_blank" title="Github"><i class="fab fa-github"></i></a>
-                <a href="" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
+                <a href="www.linkedin.com/in/johannys-guzman-a40b64185" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
             </div>
             <div class="col-3">
                 Sponsor <a href="https://depcsuite.com">Depcsuite</a>
